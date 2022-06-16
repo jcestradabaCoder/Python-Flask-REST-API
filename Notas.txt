@@ -1,0 +1,14 @@
+- Instalar entorno virtual Python:
+pip install virtualenv
+
+- Iniciar entorno virtual:
+
+Crear entorno:
+virtualenv venv
+
+Ejecutar entorno:
+.\venv\scripts\activate.bat
+
+- Instalar dependencias:
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy mysql pymysql
+
