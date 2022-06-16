@@ -12,3 +12,5 @@ Ejecutar entorno:
 - Instalar dependencias:
 pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy mysql pymysql
 
+- Ejecutar app:
+python src/app.py
